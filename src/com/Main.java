@@ -7,8 +7,8 @@ public class Main {
         Book book = new Book();
 
         // Setting values using setter methods
-        book.setTitle("Complete Java");
-        book.setAuthor("Herbert Schildt");
+        book.setTitle("Complete Jenkins course");
+        book.setAuthor("Einsten");
 
         // Printing book details using toString()
         System.out.println(book);
